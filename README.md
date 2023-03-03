@@ -25,9 +25,9 @@
 4. WAP to Take input as DD MM YYYY(04 08 2021) in command line and calculatenumber of days since 1 January 1970.
 
 5. WAP to print the following pattern using loops
-      *
-      ***
-      *****
+      '*
+       ***
+       *****'
 
 ---
 ### EXPERIMENT – 3
