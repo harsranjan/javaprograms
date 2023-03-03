@@ -12,13 +12,13 @@
 
 1. Write a program to find the largest of 3 numbers.
 
-2. Write a program to implement a command line calculator. (Try for Add sub MulDivision in same program for 2 digits.)
-   *Integer.parseInt will be used*
-               For e.g. java calc 20 + 30
-               *Output* should be Sum of 20 and 30 is 50
-
-               java calc 50 * 30
-               *Output* should be Product of 50 and 30 is 1500
+2. Write a program to implement a command line calculator. (Try for Add sub MulDivision in same program for 2 digits.)<br>
+   **Integer.parseInt will be used**<br>
+               For e.g. java calc 20 + 30<br>
+               *Output* should be Sum of 20 and 30 is 50<br>
+<br>
+               java calc 50 * 30<br>
+               *Output* should be Product of 50 and 30 is 1500<br>
 
 3. Write a program to accept 10 student’s marks in an array, arrange it into ascendingorder, convert into the following grades and print marks and grades in the tabularform.Between 40 and 50 : PASSBetween 51 and 75 : MERITand above : DISTINCTIONfor example:Enter Marks: 503050503050Output should be sorted array with Grade like:55 Merit41 Pass29 Fail
 
