@@ -124,8 +124,8 @@ Complete the function power in class Calc and return the appropriate result afte
           **Input Format**<br>
           Each line of the input contains two integers, a and b. The code must read the inputand send the values to the method as parameters.<br>
           **Constraints**<br>
-          *-10 <= a<= 10<br>
-          *-10 <= b<= 10<br>
+          * -10 <= a<= 10<br>
+          * -10 <= b<= 10<br>
           **Output Format**<br>
           Each line of the output contains the result, if both a and b are positive. If either aor b is negative, the output contains "a and b should be non-negative". If both aand b are zero, the output contains "a and b should not be zero."<br>
           **Sample Input 0 **<br>
