@@ -118,7 +118,16 @@
           **Sample Output 3:**<br>
           java.util.InputMismatchException<br>
 
-5. You are required to compute the power of a number by implementing a calculator. Create a class Calc which consists of a single method long power(int, int). This method takestwo integers, a and b, as parameters and finds ab. If either a or b is negative, then themethod must throw an exception which says "a and b should not be negative". Also, if both a and b are zero, then the method must throw an exception which says "a and bshould not be zero"For example, -4 and -5 would result in java.lang.Exception: a and b should not benegative.Complete the function power in class Calc and return the appropriate result after thepower operation or an appropriate exception as detailed above.Input FormatEach line of the input contains two integers, a and b. The code must read the inputand send the values to the method as parameters.Constraints -10 <= a<= 10 -10 <= b<= 10Output FormatEach line of the output contains the result, if both a and b are positive. If either aor b is negative, the output contains "a and b should be non-negative". If both aand b are zero, the output contains "a and b should not be zero."Sample Input 03 52 40 0-1 -2-1 3Sample Output 024316java.lang.Exception: n and p should not be zero.java.lang.Exception: n or p should not be negative.java.lang.Exception: n or p should not be negative
+5. You are required to compute the power of a number by implementing a calculator. Create a class Calc which consists of a single method long power(int, int). This method takestwo integers, a and b, as parameters and finds ab. If either a or b is negative, then themethod must throw an exception which says "a and b should not be negative". Also, if both a and b are zero, then the method must throw an exception which says "a and bshould not be zero"<br>
+For example, -4 and -5 would result in **java.lang.Exception: a and b should not be negative.**<br>
+Complete the function power in class Calc and return the appropriate result after thepower operation or an appropriate exception as detailed above.<br>
+          **Input Format**<br>
+          Each line of the input contains two integers, a and b. The code must read the inputand send the values to the method as parameters.<br>
+          **Constraints**<br>
+          *-10 <= a<= 10
+          *-10 <= b<= 10
+          **Output Format**
+          Each line of the output contains the result, if both a and b are positive. If either aor b is negative, the output contains "a and b should be non-negative". If both aand b are zero, the output contains "a and b should not be zero."Sample Input 03 52 40 0-1 -2-1 3Sample Output 024316java.lang.Exception: n and p should not be zero.java.lang.Exception: n or p should not be negative.java.lang.Exception: n or p should not be negative
 
 ---
 ### EXPERIMENT – 8
