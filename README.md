@@ -1,12 +1,12 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/UPES_Logo_without_Tagline.jpg/1200px-UPES_Logo_without_Tagline.jpg)
 
-## JAVA OOPS LAB MANUAL UPES
-### OOPS
+## JAVA LAB MANUAL UPES
+### lab experiments
 
-### HARSH RANJAN
-### 500097019
+###HARSH RANJAN
+###500097019
 
-
+---
 ### EXPERIMENT – 2
 ## TITLE: *Basic Java Programming*
 
@@ -29,7 +29,7 @@
       ***
       *****
 
-
+---
 ### EXPERIMENT – 3
 ## TITLE: *Basic Java Programming*
 
@@ -41,7 +41,7 @@
 
 4. Write a program to find the sum of all integers greater than 40 and less than 250 that aredivisible by 5.
 
-
+---
 ### EXPERIMENT – 4
 ## TITLE: *Inheritance*
 
@@ -55,7 +55,7 @@
 
 5. Design a class employee of an organization. An employee has a name, empid, and salary.Write the default constructor, a constructor with parameters (name, empid, and salary) andmethods to return name and salary. Also write a method increaseSalary that raises theemployee’s salary by a certain user specified percentage. Derive a subclass Manager fromemployee. Add an instance variable named department to the manager class. Supply a testprogram that uses theses classes and method
 
-
+---
 ### EXPERIMENT – 5
 ## TITLE: *Package*
 
@@ -65,7 +65,7 @@
 
 3. WAP to create a package p with class A with 4 types of access protected methods. Howwe will use these methods in different packages class i.e. there is main() in class B inpackage Q and 4 methods are in Class A in package p.
 
-
+---
 ### EXPERIMENT – 6
 ## TITLE: *Interfaces*
 
@@ -78,6 +78,7 @@
 
 4.	Write a program to create an Interface having two methods division and modules. Create a class, which overrides these methods.
 
+---
 ### EXPERIMENT – 7
 ## TITLE: *Exceptions*
 
@@ -111,6 +112,7 @@
 
 5. You are required to compute the power of a number by implementing a calculator. Create a class Calc which consists of a single method long power(int, int). This method takestwo integers, a and b, as parameters and finds ab. If either a or b is negative, then themethod must throw an exception which says "a and b should not be negative". Also, if both a and b are zero, then the method must throw an exception which says "a and bshould not be zero"For example, -4 and -5 would result in java.lang.Exception: a and b should not benegative.Complete the function power in class Calc and return the appropriate result after thepower operation or an appropriate exception as detailed above.Input FormatEach line of the input contains two integers, a and b. The code must read the inputand send the values to the method as parameters.Constraints -10 <= a<= 10 -10 <= b<= 10Output FormatEach line of the output contains the result, if both a and b are positive. If either aor b is negative, the output contains "a and b should be non-negative". If both aand b are zero, the output contains "a and b should not be zero."Sample Input 03 52 40 0-1 -2-1 3Sample Output 024316java.lang.Exception: n and p should not be zero.java.lang.Exception: n or p should not be negative.java.lang.Exception: n or p should not be negative
 
+---
 ### EXPERIMENT – 8
 ## TITLE: *Strings Handling and Wrapper Class*
 
@@ -128,6 +130,7 @@
 
 2. Write a Java code that converts float to Float converts Float to String converts String tofloat converts float to String converts String to Float converts Float to float.
 
+---
 ### EXPERIMENT – 9
 ## TITLE: *Threads and Collections*
 
@@ -139,7 +142,7 @@
 
 4. Write a Java program to create five threads with different priorities. Send two threads ofthe highest priority to sleep state. Check the aliveness of the threads and mark which threadis long lasting
 
-
+---
 ### EXPERIMENT – 10
 ## TITLE: *Collections*
 
@@ -162,6 +165,7 @@
           * delete all entries at one call from HashSet
           * search user defined objects from HashSet
 
+---
 ### EXPERIMENT – 11
 ## TITLE: *JDBC*
 
@@ -176,7 +180,7 @@
              d) Count the number of people participating in the meeting with ID 1105. Display amessage on the console that gives both the meeting name and the number ofparticipants.
              e) Determine the names of all people who participate in meetings that meet on Tuesdays.Display the names, preceded by the message, “Participants attending Tuesdaymeetings”.
 
-
+---
 ### EXPERIMENT – 12
 ## TITLE:  *Servlet*
 1.	Servlet:  a) ServletContext interface  b)getParameterValues( ) of Servlet Request
@@ -184,6 +188,7 @@
 3.	Write a Servlet page to which include the two other Servlet page through of include directives feature provided in Servlet.
 4.	Write a Servlet page to create a simple calculator.
 
+---
 ### EXPERIMENT – 13
 ## TITLE: *JSP*
 
