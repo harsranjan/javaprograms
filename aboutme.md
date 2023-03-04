@@ -1,4 +1,4 @@
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/GI5rHRjV2c4AAAAi/hello.gif"<br>
+img src="https://media.tenor.com/GI5rHRjV2c4AAAAi/hello.gif"<br>
 <h1 align="center">Hi 👋, I'm Harsh Ranjan</h1>
 <h3 align="center">currently a student of the CSE branch of UPES DEHRADUN.</h3>
 
